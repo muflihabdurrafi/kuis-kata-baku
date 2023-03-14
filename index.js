@@ -29,7 +29,7 @@ function randomUrut() {
     $(".rowOpsi").html("");
 
     let randomUrut = Math.floor(Math.random() * 2);
-    console.log("randomUrut " + randomUrut);
+    // console.log("randomUrut " + randomUrut);
 
     if (randomUrut === 0) {
         $(".rowOpsi").html("<button class='btn opsi1 kiri'>Opsi 1</button><button class='btn opsi2 kanan'>Opsi 2</button>");

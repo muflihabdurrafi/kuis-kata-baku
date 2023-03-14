@@ -17,7 +17,6 @@ body {
 
 #kuis {
     font-size: 1.2rem;
-    margin-top: 3%;
 }
 
 #footer {
@@ -39,7 +38,7 @@ body {
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 15px;
-    border: 2px solid var(--colorShadeA);
+    border: 0;
 }
 
 .btn:hover {
@@ -47,7 +46,6 @@ body {
     color: black;
     transform: translate(0, 0.2rem);
     transition: all 0.5s;
-    border: var(--colorShadeA);
 }
 
 .benarFX {
@@ -60,4 +58,12 @@ body {
 
 .rowOpsi .btn {
     margin: 3px;
+}
+
+.rowStats {
+    font-size: 1rem;
+}
+
+.note {
+    font-size: 0.8rem;
 }
