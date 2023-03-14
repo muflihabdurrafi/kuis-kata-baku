@@ -655,4 +655,369 @@ let kataBaku = [
         pilihan2: "trampil",
         jawaban: "terampil",
     },
+    {
+        pilihan1: "tribun",
+        pilihan2: "tribune",
+        jawaban: "tribun",
+    },
+    {
+        pilihan1: "triliun",
+        pilihan2: "trilyun",
+        jawaban: "triliun",
+    },
+    {
+        pilihan1: "trotoar",
+        pilihan2: "trotiar",
+        jawaban: "trotoar",
+    },
+    {
+        pilihan1: "menyukseskan",
+        pilihan2: "mensukseskan",
+        jawaban: "menyukseskan",
+    },
+    {
+        pilihan1: "syukur",
+        pilihan2: "sukur",
+        jawaban: "syukur",
+    },
+    {
+        pilihan1: "survei",
+        pilihan2: "survai",
+        jawaban: "survei",
+    },
+    {
+        pilihan1: "swasta",
+        pilihan2: "suasta",
+        jawaban: "swasta",
+    },
+    {
+        pilihan1: "saksama",
+        pilihan2: "seksama",
+        jawaban: "saksama",
+    },
+    {
+        pilihan1: "roh",
+        pilihan2: "ruh",
+        jawaban: "roh",
+    },
+    {
+        pilihan1: "rohani",
+        pilihan2: "ruhani",
+        jawaban: "rohani",
+    },
+    {
+        pilihan1: "risi",
+        pilihan2: "risih",
+        jawaban: "risi",
+    },
+    {
+        pilihan1: "respons",
+        pilihan2: "respon",
+        jawaban: "respons",
+    },
+    {
+        pilihan1: "ubah",
+        pilihan2: "rubah",
+        jawaban: "ubah",
+    },
+    {
+        pilihan1: "religi",
+        pilihan2: "reliji",
+        jawaban: "religi",
+    },
+    {
+        pilihan1: "rezeki",
+        pilihan2: "rejeki",
+        jawaban: "rezeki",
+    },
+    {
+        pilihan1: "rapor",
+        pilihan2: "raport",
+        jawaban: "rapor",
+    },
+    {
+        pilihan1: "rapi",
+        pilihan2: "rapih",
+        jawaban: "rapi",
+    },
+    {
+        pilihan1: "paradigma",
+        pilihan2: "paradigm",
+        jawaban: "paradigma",
+    },
+    {
+        pilihan1: "putri",
+        pilihan2: "puteri",
+        jawaban: "putri",
+    },
+    {
+        pilihan1: "putra",
+        pilihan2: "putera",
+        jawaban: "putra",
+    },
+    {
+        pilihan1: "purnajual",
+        pilihan2: "purna jual",
+        jawaban: "purnajual",
+    },
+    {
+        pilihan1: "produktivitas",
+        pilihan2: "produktifitas",
+        jawaban: "produktivitas",
+    },
+    {
+        pilihan1: "memproduksi",
+        pilihan2: "memeroduksi",
+        jawaban: "memproduksi",
+    },
+    {
+        pilihan1: "praktik",
+        pilihan2: "praktek",
+        jawaban: "praktik",
+    },
+    {
+        pilihan1: "memesona",
+        pilihan2: "mempesona",
+        jawaban: "memesona",
+    },
+    {
+        pilihan1: "autopsi",
+        pilihan2: "otopsi",
+        jawaban: "autopsi",
+    },
+    {
+        pilihan1: "autoaktivitas",
+        pilihan2: "otoaktivitas",
+        jawaban: "autoaktivitas",
+    },
+    {
+        pilihan1: "autodidak",
+        pilihan2: "otodidak",
+        jawaban: "autodidak",
+    },
+    {
+        pilihan1: "autokritik",
+        pilihan2: "otokritik",
+        jawaban: "autokritik",
+    },
+    {
+        pilihan1: "opelet",
+        pilihan2: "oplet",
+        jawaban: "opelet",
+    },
+    {
+        pilihan1: "unta",
+        pilihan2: "onta",
+        jawaban: "unta",
+    },
+    {
+        pilihan1: "negeri",
+        pilihan2: "negri",
+        jawaban: "negeri",
+    },
+    {
+        pilihan1: "napas",
+        pilihan2: "nafas",
+        jawaban: "napas",
+    },
+    {
+        pilihan1: "mutakhir",
+        pilihan2: "mutahir",
+        jawaban: "mutakhir",
+    },
+    {
+        pilihan1: "miliar",
+        pilihan2: "milyar",
+        jawaban: "miliar",
+    },
+    {
+        pilihan1: "menceret",
+        pilihan2: "mencret",
+        jawaban: "menceret",
+    },
+    {
+        pilihan1: "masyhur",
+        pilihan2: "mashur",
+        jawaban: "masyhur",
+    },
+    {
+        pilihan1: "manajemen",
+        pilihan2: "managemen",
+        jawaban: "manajemen",
+    },
+    {
+        pilihan1: "miliuner",
+        pilihan2: "milyuner",
+        jawaban: "miliuner",
+    },
+    {
+        pilihan1: "mukjizat",
+        pilihan2: "mujizat",
+        jawaban: "mukjizat",
+    },
+    {
+        pilihan1: "mubalig",
+        pilihan2: "mubaligh",
+        jawaban: "mubalig",
+    },
+    {
+        pilihan1: "kuitansi",
+        pilihan2: "kwitansi",
+        jawaban: "kuitansi",
+    },
+    {
+        pilihan1: "khawatir",
+        pilihan2: "kuatir",
+        jawaban: "khawatir",
+    },
+    {
+        pilihan1: "kreativitas",
+        pilihan2: "kreatifitas",
+        jawaban: "kreativitas",
+    },
+    {
+        pilihan1: "konteks",
+        pilihan2: "kontek",
+        jawaban: "konteks",
+    },
+    {
+        pilihan1: "koordinasi",
+        pilihan2: "koordinir",
+        jawaban: "koordinasi",
+    },
+    {
+        pilihan1: "konkret",
+        pilihan2: "konkrit",
+        jawaban: "konkret",
+    },
+    {
+        pilihan1: "kongres",
+        pilihan2: "konggres",
+        jawaban: "kongres",
+    },
+    {
+        pilihan1: "konduite",
+        pilihan2: "kondite",
+        jawaban: "konduite",
+    },
+    {
+        pilihan1: "kompleks",
+        pilihan2: "komplek",
+        jawaban: "kompleks",
+    },
+    {
+        pilihan1: "karier",
+        pilihan2: "karir",
+        jawaban: "karier",
+    },
+    {
+        pilihan1: "jenderal",
+        pilihan2: "jendral",
+        jawaban: "jenderal",
+    },
+    {
+        pilihan1: "zaman",
+        pilihan2: "jaman",
+        jawaban: "zaman",
+    },
+    {
+        pilihan1: "jahil",
+        pilihan2: "jail",
+        jawaban: "jahil",
+    },
+    {
+        pilihan1: "istri",
+        pilihan2: "isteri",
+        jawaban: "istri",
+    },
+    {
+        pilihan1: "isyarat",
+        pilihan2: "isarat",
+        jawaban: "isyarat",
+    },
+    {
+        pilihan1: "inteligen",
+        pilihan2: "intelijen",
+        jawaban: "inteligen",
+    },
+    {
+        pilihan1: "hierarki",
+        pilihan2: "hirarki",
+        jawaban: "hierarki",
+    },
+    {
+        pilihan1: "khalayak",
+        pilihan2: "halayak",
+        jawaban: "khalayak",
+    },
+    {
+        pilihan1: "filsuf",
+        pilihan2: "filosof",
+        jawaban: "filsuf",
+    },
+    {
+        pilihan1: "esai",
+        pilihan2: "esay",
+        jawaban: "esai",
+    },
+    {
+        pilihan1: "detergen",
+        pilihan2: "deterjen",
+        jawaban: "detergen",
+    },
+    {
+        pilihan1: "cedera",
+        pilihan2: "cidera",
+        jawaban: "cedera",
+    },
+    {
+        pilihan1: "bus",
+        pilihan2: "bis",
+        jawaban: "bus",
+    },
+    {
+        pilihan1: "bineka",
+        pilihan2: "bhinneka",
+        jawaban: "bineka",
+    },
+    {
+        pilihan1: "barangkali",
+        pilihan2: "barang kali",
+        jawaban: "barangkali",
+    },
+    {
+        pilihan1: "apoteker",
+        pilihan2: "apotiker",
+        jawaban: "apoteker",
+    },
+    {
+        pilihan1: "ambulans",
+        pilihan2: "ambulan",
+        jawaban: "ambulans",
+    },
+    {
+        pilihan1: "aktivitas",
+        pilihan2: "aktifitas",
+        jawaban: "aktivitas",
+    },
+    {
+        pilihan1: "akta",
+        pilihan2: "akte",
+        jawaban: "akta",
+    },
+    {
+        pilihan1: "terima kasih",
+        pilihan2: "terimakasih",
+        jawaban: "terima kasih",
+    },
+    {
+        pilihan1: "lembap",
+        pilihan2: "lembab",
+        jawaban: "lembap",
+    },
+    {
+        pilihan1: "suami istri",
+        pilihan2: "suami-istri",
+        jawaban: "suami istri",
+    },
 ];
