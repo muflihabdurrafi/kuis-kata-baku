@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <!-- google fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap" rel="stylesheet" />
+        <!-- external css -->
+        <link rel="stylesheet" href="styles.css" />
+        <title>Kuis Kata Baku KBBI</title>
+    </head>
+    <body>
+        <section id="header">
+            <h1>Kuis Kata Baku <br /><span class="subheader">sesuai KBBI</span></h1>
+        </section>
+        <section id="kuis">
+            <h3>Pilih kata yang tepat!</h3>
+            <div class="rowOpsi"></div>
+            <div class="rowStats">
+                <p>Benar : <span class="benar">0</span></p>
+                <p>Salah : <span class="salah">0</span></p>
+                <p>Akurasi : <span class="akurasi">100</span>%</p>
+                <button class="btn reset">Atur Ulang Skor</button>
+            </div>
+        </section>
+        <section id="footer">Made with 💙 by Muflih</section>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <script src="words.js"></script>
+        <script src="index.js"></script>
+    </body>
+</html>
